@@ -1,0 +1,11 @@
+h1{
+    display: flex;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-inline: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    justify-content: center;
+    color: white;
+    background-color: black;
+}
